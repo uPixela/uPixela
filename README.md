@@ -1,3 +1,4 @@
+```
 const uPixela = {
   name: 'uPixela',
   age: Age,
@@ -14,3 +15,4 @@ const uPixela = {
   plattforms: ['Windows', 'macOS'],
   social: undefined
 };
+```
